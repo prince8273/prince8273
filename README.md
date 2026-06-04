@@ -6,26 +6,36 @@
 
 ---
 
-**`prince = { name: "Prince Kumar", location: "India 🇮🇳", focus: ["ML Systems", "Distributed Computing"], languages: ["Python", "TypeScript", "C", "SQL"] }`**
+```python
+prince = {
+    "name": "Prince Kumar",
+    "location": "India 🇮🇳",
+    "focus": ["ML Systems", "Distributed Computing"],
+    "languages": ["Python", "TypeScript", "C", "SQL"],
+}
+```
 
- Love tackling core-level problems &nbsp;|&nbsp;  Always learning new technologies
+Love tackling core-level problems &nbsp;·&nbsp; Always learning something new
 
 ---
 
-**Languages** &nbsp;
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
 
-**ML & Systems** &nbsp;
+**ML & Systems**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Ray](https://img.shields.io/badge/Ray-028CF0?style=flat&logo=ray&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-**Tools** &nbsp;
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
