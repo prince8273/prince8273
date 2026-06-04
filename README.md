@@ -8,7 +8,7 @@
 
 **`prince = { name: "Prince Kumar", location: "India 🇮🇳", focus: ["ML Systems", "Distributed Computing"], languages: ["Python", "TypeScript", "C", "SQL"] }`**
 
-💡 Love tackling core-level problems &nbsp;|&nbsp; 🌱 Always learning new technologies
+ Love tackling core-level problems &nbsp;|&nbsp; 🌱 Always learning new technologies
 
 ---
 
